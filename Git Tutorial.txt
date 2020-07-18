@@ -3,13 +3,11 @@ Learning how it works.
 
 Learned to Commit a file 
 
+Done with Commit file
 
 
-
-
-
-
-
-
+Learning to add a new branch
+Created New Branch as biswa-stack
 
 Next to learn Merging of branch
+
